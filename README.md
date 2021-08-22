@@ -1,3 +1,2 @@
-# CalculatorUI
-There are .swift code
-location: Calculator > Calculator > ContentView.swift
+It is just UI
+You can make your own calculator by using this UI
